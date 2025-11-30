@@ -9,6 +9,7 @@ You can see some of my technical skills listed briefly below, but if you want to
 
 ## Programing Languages
 - Python
+- SQL
 - JavaScript
 - CSS
 - HTML
