@@ -94,4 +94,4 @@ Note * that this is the simple fix to the problem, there are many more steps tha
   
 #### 9. Ethical Diclaimer
 
-**All activity performed in a controlled, authorized enviorment. Do not use these techniques on systems you do not own or have explicit permission to test.
+**All activity performed in a controlled, authorized enviorment. Do not use these techniques on systems you do not own or have explicit permission to test.**
