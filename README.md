@@ -1,23 +1,33 @@
-# Chet-Parke-Cybersecurity Portfolio
+<h1>Hi, I'm Chet! <br/>
 
-Hello! And welcome to my portfolio. My name is Chet Parke and this repository is my cybersecurity portfolio, showcasing hands-on labs, vulnerability write-ups, small automation tools, and security projects I’ve completed while building my skills. It includes practical work in web security, cloud basics, and defensive analysis. 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-You can see some of my technical skills listed briefly below, but if you want to get a deeper look into my work check out the rest or the REPO!
 
-## Certifications
-- CompTIA Security+
 
-## Programing Languages
-- Python
-- SQL
-- JavaScript
-- CSS
-- HTML
+<h2>📺 Ethical Hacking Writeups</h2>
+<ul>
+  <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/SQLi.md">SQL Injection Writeups</a></li>
+</ul>
 
-## Tools
-- Burp Suite
+<h2>🤖 Automation Projects:</h2>
 
-## Projects
-- SQL Injection Labs
-- IDOR / Broken Access Control Labs
-- 
+
+<h2> 🤳 Connect with me:</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/chet-parke/)
+
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
