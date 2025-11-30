@@ -1,2 +1,3 @@
 # Chet-Parke-Portfolio
-A collection of cybersecurity labs, projects, scripts, and write-ups documenting my hands-on learning in information security. This portfolio shows the practical work I’ve completed as I build skills in security testing, automation, and defense.
+
+Hello! And welcome to my portfolio. My name is Chet Parke and this repository is my cybersecurity portfolio, showcasing hands-on labs, vulnerability write-ups, small automation tools, and security projects I’ve completed while building my skills. It includes practical work in web security, cloud basics, and defensive analysis.
