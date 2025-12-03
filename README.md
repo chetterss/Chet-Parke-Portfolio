@@ -10,7 +10,7 @@
     <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/IDOR.md">IDOR Writeups</a></li>
 </ul>
 
-<h2>🤖 Automation Projects:</h2>
+<h2>🤖 Scripting & Development:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
