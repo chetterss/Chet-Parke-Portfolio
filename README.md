@@ -8,6 +8,7 @@
 <ul>
   <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/SQLi.md">SQL Injection Writeups</a></li>
     <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/IDOR.md">IDOR Writeups</a></li>
+  <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/Broken%20Access%20Control.md">Verticle Privilage Escilation</a></li>
 </ul>
 
 <h2>🤖 Scripting & Development:</h2>
