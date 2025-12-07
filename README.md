@@ -1,7 +1,10 @@
 <h1>Hi, I'm Chet! <br/>
 <h4></h4>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+<ul>
+  <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Azure Sentinel SIEM</a></li>
 
+</ul>
 
 
 <h2>📺 Ethical Hacking Writeups</h2>
