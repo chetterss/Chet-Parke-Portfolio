@@ -2,7 +2,7 @@
 <h4></h4>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
-  <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Azure Sentinel SIEM</a></li>
+  <li><a href="https://github.com/chetterss/Cybersecurity-Projects/blob/main/Azure%20Sentinel%20SIEM.md">Cloud-Based Honeypot Deployment and Attack Analysis in Microsoft Azure</a></li>
 
 </ul>
 
