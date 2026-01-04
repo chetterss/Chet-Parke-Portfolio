@@ -7,7 +7,7 @@
 </ul>
 
 
-<h2>📺 Ethical Hacking Writeups</h2>
+<h2>📺 Ethical Hacking Writeups:</h2>
 <ul>
   <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/SQLi.md">SQL Injection</a></li>
     <li><a href="https://github.com/chetterss/Ethical-Hacking/blob/main/IDOR.md">IDOR</a></li>
